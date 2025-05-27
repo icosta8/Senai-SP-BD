@@ -1,0 +1,11 @@
+Consulta:
+
+{categoria: "Infantil"}
+
+Atualização:
+
+Para atualização ultilizei a própria estrutura do MongoDB Compass. Apenas editei o documento conforme solicitação. Adicionei o autor no titulo do livro "Os três porquinhos"
+
+Exclusão:
+
+Excluído "O pequeno príncipe"

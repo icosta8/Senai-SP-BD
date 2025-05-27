@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6834fd827755f93623296c9e"
+  },
+  "nome": "Os três porquinhos",
+  "categoria": "Infantil",
+  "quantidade": 5,
+  "preco": 19.9,
+},
+{
+  "_id": {
+    "$oid": "6835066e7755f93623296cb1"
+  },
+  "nome": "A fantastica fabrica de chocolates",
+  "autor": "Roald Dahl",
+  "ano": "1964",
+  "preco": 59.9
+},
+{
+  "_id": {
+    "$oid": "683506dd7755f93623296cb3"
+  },
+  "nome": "O pequeno principe",
+  "autor": "Antoine de Saint-Exupery",
+  "ano": "1943",
+  "preco": 119.99
+}]
